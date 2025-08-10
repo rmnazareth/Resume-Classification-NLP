@@ -36,11 +36,6 @@ If you don’t have [Streamlit](https://docs.streamlit.io/library/get-started/in
 pip install streamlit
 ```
 
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 3. Run the Streamlit web page
 
 Assuming your Streamlit app is in a file like `app.py` (adjust filename as needed):
